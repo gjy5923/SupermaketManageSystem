@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../../google/DetectionImgDAO (1).java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/out/artifacts/SupermarketManagementSystem_war_exploded/images/bg1.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/out/artifacts/SupermarketManagementSystem_war_exploded/images/nopic.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/out/artifacts/SupermarketManagementSystem_war_exploded/images/photo1.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/out/artifacts/SupermarketManagementSystem_war_exploded/images/photo2.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/out/artifacts/SupermarketManagementSystem_war_exploded/images/photo3.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/out/artifacts/SupermarketManagementSystem_war_exploded/images/photo4.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/out/artifacts/SupermarketManagementSystem_war_exploded/mainPage/tableShowing.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/out/artifacts/SupermarketManagementSystem_war_exploded/uploadfile" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/DAO/GoodsInfoDAO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/DAO/GoodsInfoReportDAO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/DAO/ImageDAO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/DAO/LoginDAO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/DAO/TypesInfoDAO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Utils/FileTools.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Utils/JDBCUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Utils/RandomValue.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/filter/Filter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/servlet/AddGoodsServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/servlet/GoodsDelServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/servlet/GoodsUpdateServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/servlet/LoginInfoServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/servlet/UploadFilesServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/test/ImageServer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/test/SendImageToWeb.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/test/WebSocketTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/Druid.properties" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/Tool" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/Tool/echarts-5.1.1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/Tool/sweetalert" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/WEB-INF/lib" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/WEB-INF/lib/commons-dbutils-1.7.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/WEB-INF/lib/druid-1.2.5.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/WEB-INF/lib/fastjson-1.2.76.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-8.0.22.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/css/default.css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/images/nopic.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/images/photo1.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/images/photo2.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/images/photo3.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/images/photo4.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/mainPage/addGoods.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/mainPage/editGoods.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/mainPage/goodsManager.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/mainPage/goodsMessage.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/page/api" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/page/images" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/page/js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/page/lib" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/page/page" charset="GBK" />
+  </component>
+</project>

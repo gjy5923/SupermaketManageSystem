@@ -1,0 +1,85 @@
+{
+  "homeInfo": {
+    "title": "超市管理",
+    "href": "../mainPage/firstPage.jsp"
+  },
+  "logoInfo": {
+    "title": "超市管理",
+    "image": "../images/logo.png",
+    "href": "../mainPage/firstPage.jsp"
+  },
+  "menuInfo": [
+    {
+      "title": "常规管理",
+      "icon": "fa fa-address-book",
+      "href": "",
+      "target": "_self",
+      "child": [
+        {
+          "title": "首页&nbsp;&nbsp;&nbsp;",
+          "href": "../mainPage/firstPage.jsp",
+          "icon": "fa fa-home",
+          "target": "_self"
+        },
+        {
+          "title": "图表信息",
+          "href": "../mainPage/dataChart.jsp",
+          "icon": "fa fa-area-chart",
+          "target": "_self"
+        },
+        {
+          "title": "商品管理",
+          "href": "",
+          "icon": "fa fa-cubes",
+          "target": "",
+          "child": [
+            {
+              "title": "商品种类管理",
+              "href": "../mainPage/typeManager.jsp",
+              "icon": "fa fa-file-text",
+              "target": "_self"
+            },
+            {
+              "title": "商品列表管理",
+              "href": "../mainPage/goodsManager.jsp",
+              "icon": "fa fa-list-alt",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "title": "用户管理",
+          "href": "../mainPage/userManager.jsp",
+          "icon": "fa fa-user",
+          "target": "_self"
+        }
+      ]
+    },
+    {
+      "title": "安全管理",
+      "icon": "fa fa-address-book",
+      "href": "",
+      "target": "_self",
+      "child": [
+        {
+          "title": "动态抓拍",
+          "href": "../mainPage/dynamicCapture.jsp",
+          "icon": "fa fa-shield",
+          "target": "_self"
+        },
+        {
+          "title": "实时监控",
+          "href": "../mainPage/motion.jsp",
+          "icon": "fa fa-shield",
+          "target": "_self"
+        },
+        {
+          "title": "入侵统计",
+          "href": "../mainPage/IntrusionCount.jsp",
+          "icon": "fa fa-shield",
+          "target": "_self"
+        }
+      ]
+    }
+  ]
+}
